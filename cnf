@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "virgool.ir",
+            "address": "zula.ir",
             "port": 443,
             "users": [
               {
@@ -645,7 +645,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "zula.ir",
+            "address": "104.18.166.4",
             "port": 443,
             "users": [
               {
